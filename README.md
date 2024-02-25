@@ -2,8 +2,7 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/POs3DrBRTjSm3hqS7ohw7Q/badge)](https://hackmd.io/POs3DrBRTjSm3hqS7ohw7Q)
 
-
-遮只有標示正著時 ê 青菜水果，有的佇其他 ê 時節嘛吃有喔！
+遮只有標示正著時 ê 青菜水果，有的佇其他 ê 時節嘛食有喔！
 
 tsia tsí-ū piau-sī tsiànn-tio̍h-sî ê tshinn-tshài tsuí-kó, ū-ê tī kî-thann ê sî-tseh mā tsia̍h ū --ooh!
 
