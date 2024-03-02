@@ -45,10 +45,11 @@ tsia tsí-ū piau-sī tsiànn-tio̍h-sî ê tshinn-tshài tsuí-kó, ū-ê tī k
 | 龍眼 lîng-gíng                      | 龍眼           |   |   |   |   |   |   | O | O | O |    |    |    |
 | 荔枝 nāi-tsi                        | 荔枝           |   |   |   |   | O | O | O | O |   |    |    |    |
 | 木瓜 bo̍k-kue                        | 木瓜           | O | O | O | O |   |   |   |   |   | O  | O  | O  |
-| 時計果 sî-kè-kó                     | 百香果         |   |   |   |   |   | O | O | O | O | O  | O  | O  |
+| 時計果                              | 百香果         |   |   |   |   |   | O | O | O | O | O  | O  | O  |
 | 美濃瓜 me-lóng-kue                  | 美濃瓜         |   |   |   |   |   |   | O | O | O | O  |    |    |
 | 茂谷柑 bōo-kok-kam                  | 茂谷柑         | O | O | O |   |   |   |   |   |   |    |    |    |
 | 桶柑 tháng-kam                      | 桶柑           |   | O |   |   |   |   |   |   |   |    |    |    |
 | 青皮椪柑 tshinn-phê phòng-kam       | 青皮椪柑       |   |   |   |   |   |   |   |   |   | O  | O  | O  |
 | 椪柑 phòng-kam                      | 椪柑           | O | O |   |   |   |   |   |   |   |    |    |    |
 | 海梨柑 hái-lâi-kam                  | 海梨柑         | O |   |   |   |   |   |   |   |   |    |    |    |
+| 蒜頭 suàn-thâu                      | 蒜頭           |   | O | O | O |   |   |   |   |   |    |    |    |
