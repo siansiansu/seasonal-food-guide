@@ -53,3 +53,7 @@ tsia tsí-ū piau-sī tsiànn-tio̍h-sî ê tshinn-tshài tsuí-kó, ū-ê tī k
 | 椪柑 phòng-kam                      | 椪柑           | O | O |   |   |   |   |   |   |   |    |    |    |
 | 海梨柑 hái-lâi-kam                  | 海梨柑         | O |   |   |   |   |   |   |   |   |    |    |    |
 | 蒜頭 suàn-thâu                      | 蒜頭           |   | O | O | O |   |   |   |   |   |    |    |    |
+
+:::warning
+如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://p.ecpay.com.tw/5256DCE)請我喝咖啡。
+:::
