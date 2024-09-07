@@ -3,42 +3,59 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/seasonal-food-guide)
 [![hackmd-github-sync-badge](https://hackmd.io/POs3DrBRTjSm3hqS7ohw7Q/badge)](https://hackmd.io/POs3DrBRTjSm3hqS7ohw7Q)
 
-遮只有標示正著時 ê 青菜水果，因為栽培技術 ê 進步，有的佇其他 ê 時節嘛食有喔。
+遮只有標示正著時 ê 青菜水果，因為栽培技術 ê 進步，誠濟佇其他 ê 時節嘛食有喔。
 
-tsia tsí-ū piau-sī tsiànn-tio̍h-sî ê tshinn-tshài tsuí-kó, in-uī tsai-puê ki-su̍t ê tsìn-pōo, ū-ê tī kî-thann ê sî-tseh mā tsia̍h ū --ooh.
+tsia tsí-ū piau-sī tsiànn-tio̍h-sî ê tshinn-tshài tsuí-kó, in-uī tsai-puê ki-su̍t ê tsìn-pōo, tsiânn tsē tī kî-thann ê sî-tseh mā tsia̍h ū --ooh.
 
 :::success
 📣 若是有寫毋著 ê 所在，請佇下跤留言抑是寫 email 共我講，多謝！
 
-✉️ 電子批: minsiansu@gmail.com
+✉️ 電子批：minsiansu@gmail.com
 :::
+
+| 台語                       |  華語  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  |
+|:-------------------------- |:------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 番麥 huan-be̍h             |  玉米  |     |     |     |     |     |     |  O  |  O  |  O  |     |     |     |
+| 烏骨仔 oo-kut-á            |  秋葵  |     |     |     |  O  |  O  |  O  |  O  |  O  |  O  |     |     |     |
+| 苦瓜 khóo-kue              |  苦瓜  |     |     |     |     |     |  O  |  O  |  O  |     |     |     |     |
+| 番麥筍 huan-be̍h-sún       | 玉米筍 |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |
+| 茄子 kiô-á                 |  茄子  |     |     |     |     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |     |
+| 菠薐仔 pue-lîng-á          |  菠菜  |  O  |  O  |  O  |     |     |     |     |     |     |     |  O  |  O  |
+| 西瓜 si-kue                |  西瓜  |     |     |     |  O  |  O  |  O  |  O  |     |     |     |     |     |
+| 莧菜 hīng-tshài            |  莧菜  |     |     |     |     |     |  O  |  O  |  O  |  O  |  O  |     |     |
+| 花菜 hue-tshài             | 花椰菜 |  O  |  O  |  O  |  O  |     |     |     |     |     |     |  O  |  O  |
+| 香櫞瓜 hiunn-înn-kue       | 佛手瓜 |     |     |     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |     |     |
+| 番仔薑 huan-á-kiunn        |  辣椒  |     |     |     |     |     |     |     |     |  O  |  O  |  O  |     |
+| 芫荽 iân-sui               |  香菜  |  O  |  O  |     |     |     |     |     |     |     |  O  |  O  |  O  |
+| 蕹菜 ìng-tshài             | 空心菜 |     |     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |     |
+| 油菜 iû-tshài              |  油菜  |  O  |  O  |  O  |     |     |     |     |     |     |     |  O  |  O  |
+| 龍眼 lîng-gíng             |  龍眼  |     |     |     |     |     |     |  O  |  O  |  O  |     |     |     |
+| 木瓜 bo̍k-kue              |  木瓜  |  O  |  O  |  O  |  O  |     |     |     |     |     |  O  |  O  |  O  |
+| 時計果 sî-kè-kó            | 百香果 |     |     |     |     |     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |
+| 美濃瓜 me-lóng-kue         | 美濃瓜 |     |     |     |     |     |     |  O  |  O  |  O  |  O  |     |     |
+| 蒜頭 suàn-thâu             |  蒜頭  |     |  O  |  O  |  O  |     |     |     |     |     |     |     |     |
+| 瓜仔哖 kue-á-nî            | 小黃瓜 |     |     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |     |
+| 刺瓜仔 tshì-kue-á          | 大黃瓜 |     |     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |     |
+| 湯匙仔菜 thng-sî-á-tshài   | 青江菜 |     |     |     |     |     |     |     |     |  O  |  O  |  O  |  O  |
+| 香瓜仔鬚 hiunn-kue-á-tshiu | 龍鬚菜 |     |     |     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |  O  |
+
+## 弓蕉 king-tsio
 
 | 台語 | 華語 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12  |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| 番麥 huan-be̍h | 玉米 |  |  |  |  |  |  | O | O | O |  |  |   |
-| 烏骨仔 oo-kut-á | 秋葵 |  |  |  | O | O | O | O | O | O |  |  |   |
-| 苦瓜 khóo-kue | 苦瓜 |  |  |  |  |  | O | O | O |  |  |  |   |
-| 番麥筍 huan-be̍h-sún | 玉米筍 | O | O | O | O | O | O | O | O | O | O | O | O  |
-| 茄子 kiô-á | 茄子 |  |  |  |  | O | O | O | O | O | O | O |   |
-| 菠薐仔 pue-lîng-á | 菠菜 | O | O | O |  |  |  |  |  |  |  | O | O  |
-| 弓蕉 king-tsio | 香蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
-| 西瓜 si-kue | 西瓜 |  |  |  | O | O | O | O |  |  |  |  |   |
-| 莧菜 hīng-tshài | 莧菜 |  |  |  |  |  | O | O | O | O | O |  |   |
-| 花菜 hue-tshài | 花椰菜 | O | O | O | O |  |  |  |  |  |  | O | O  |
-| 香櫞瓜 hiunn-înn-kue | 佛手瓜 |  |  |  | O | O | O | O | O | O | O |  |   |
-| 番仔薑 huan-á-kiunn | 辣椒 |  |  |  |  |  |  |  |  | O | O | O |   |
-| 芫荽 iân-sui | 香菜 | O | O |  |  |  |  |  |  |  | O | O | O  |
-| 蕹菜 ìng-tshài | 空心菜 |  |  | O | O | O | O | O | O | O | O | O |   |
-| 油菜 iû-tshài | 油菜 | O | O | O |  |  |  |  |  |  |  | O | O  |
-| 龍眼 lîng-gíng | 龍眼 |  |  |  |  |  |  | O | O | O |  |  |   |
-| 木瓜 bo̍k-kue | 木瓜 | O | O | O | O |  |  |  |  |  | O | O | O  |
-| 時計果 sî-kè-kó | 百香果 |  |  |  |  |  | O | O | O | O | O | O | O  |
-| 美濃瓜 me-lóng-kue | 美濃瓜 |  |  |  |  |  |  | O | O | O | O |  |   |
-| 蒜頭 suàn-thâu | 蒜頭 |  | O | O | O |  |  |  |  |  |  |  |   |
-| 瓜仔哖 kue-á-nî | 小黃瓜 |  |  | O | O | O | O | O | O | O | O | O |   |
-| 刺瓜仔 tshì-kue-á | 大黃瓜 |  |  | O | O | O | O | O | O | O | O | O |   |
-| 湯匙仔菜 thng-sî-á-tshài | 青江菜 |  |  |  |  |  |  |  |  | O | O | O | O  |
-| 香瓜仔鬚 hiunn-kue-á-tshiu | 龍鬚菜 |  |  |  | O | O | O | O | O | O | O | O | O  |
+| 舊北蕉 kū-pak-tsio | 舊北蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 寶島蕉 pó-tó-tsio、新北蕉 sin-pak-tsio | 寶島蕉、新北蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 台蕉 5 號 tâi-tsio-ngóo-hō、玉山蕉 Gio̍k-san-tsio | 台蕉 5 號、玉山蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 山蕉 suann-tsio | 山蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 李林蕉 lí-lîm-tsio、牛角蕉 gû-kak-tsio、樹蕉 tshiū-tsio、佛手蕉 hu̍t-tshiú-tsio | 李林蕉、牛角蕉、樹蕉、佛手蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 呂宋蕉 lū-sòng-tsio、日本蕉 Ji̍t-pún-tsio、南洋蕉 Lâm-iûnn-tsio | 呂宋蕉、日本蕉、南洋蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 玫瑰蕉 muî-kuì-tsio、皇后蕉 hông-hiō-tsio | 玫瑰蕉、皇后蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 南華蕉 lâm-huâ-tsio、芭蕉 pa-tsio | 南華蕉、芭蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 紅皮蕉 âng-phuê-tsio、蘋果蕉 phông-kó-tsio | 紅皮蕉、蘋果蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 蛋蕉（旦蕉）nn̄g-tsio | 蛋蕉、旦蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 粉蕉 hún-tsio | 粉蕉 |  |  |  | O | O | O | O | O | O | O |  |   |
+| 秋蕉 tshiu-tsio | 秋蕉 |  |  |  |  |  |  | O | O | O |  |  |   |
+| 冬蕉 tang-tsio | 冬蕉 |  |  |  |  |  |  |  |  | O | O |  |   |
 
 ## 豆仔 tāu-á
 
@@ -162,3 +179,9 @@ tsia tsí-ū piau-sī tsiànn-tio̍h-sî ê tshinn-tshài tsuí-kó, in-uī tsai
 | 土菝仔 thóo-pua̍t-á | 土芭樂 |  |  |  |  |  | O | O | O |  |  |  |   |
 | 紅心 âng-sim | 紅心 | O | O |  |  |  |  |  | O | O |  | O | O  |
 | 紅寶石 âng-pó-tsio̍h | 紅寶石 | O | O | O | O |  |  | O | O | O | O | O | O  |
+
+## 參考 tsham-khó
+
+- [當季好蔬果](https://www.twfood.cc/)
+- [阿州水果行](https://www.365fruit.com/contents/research.php)
+- [香蕉主題館](https://kmweb.moa.gov.tw/subject/index.php?id=20)
